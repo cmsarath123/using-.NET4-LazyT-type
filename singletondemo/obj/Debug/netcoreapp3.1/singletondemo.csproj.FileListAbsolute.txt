@@ -1,0 +1,13 @@
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\bin\Debug\netcoreapp3.1\singletondemo.exe
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\bin\Debug\netcoreapp3.1\singletondemo.deps.json
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\bin\Debug\netcoreapp3.1\singletondemo.runtimeconfig.json
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\bin\Debug\netcoreapp3.1\singletondemo.runtimeconfig.dev.json
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\bin\Debug\netcoreapp3.1\singletondemo.dll
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\bin\Debug\netcoreapp3.1\singletondemo.pdb
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\obj\Debug\netcoreapp3.1\singletondemo.csprojAssemblyReference.cache
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\obj\Debug\netcoreapp3.1\singletondemo.AssemblyInfoInputs.cache
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\obj\Debug\netcoreapp3.1\singletondemo.AssemblyInfo.cs
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\obj\Debug\netcoreapp3.1\singletondemo.csproj.CoreCompileInputs.cache
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\obj\Debug\netcoreapp3.1\singletondemo.dll
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\obj\Debug\netcoreapp3.1\singletondemo.pdb
+C:\Users\sarathkumarc\Desktop\learndotnet\source\design patterns\singleton\using .NET4 LazyT type\singletondemo\obj\Debug\netcoreapp3.1\singletondemo.genruntimeconfig.cache
